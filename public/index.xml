@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ArinkoLab 開発ブログ</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ArinkoLab 開発ブログ</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 28 Jan 2026 01:29:52 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terms</title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Wed, 28 Jan 2026 01:29:52 +0900</pubDate>
+      <guid>http://localhost:1313/terms/</guid>
+      <description>&lt;p&gt;本ページは ArinkoLab 開発ブログ（以下「当サイト」）の利用条件です。&lt;/p&gt;
+&lt;h2 id=&#34;免責事項&#34;&gt;免責事項&lt;/h2&gt;
+&lt;p&gt;当サイトの内容は可能な限り正確な情報を提供するよう努めますが、正確性・完全性を保証するものではありません。当サイトの情報を利用したことにより生じた損害について、当サイトは責任を負いません。&lt;/p&gt;
+&lt;h2 id=&#34;外部リンク&#34;&gt;外部リンク&lt;/h2&gt;
+&lt;p&gt;当サイトには外部サイトへのリンクが含まれる場合があります。外部サイトの内容について当サイトは責任を負いません。&lt;/p&gt;
+&lt;h2 id=&#34;禁止事項&#34;&gt;禁止事項&lt;/h2&gt;
+&lt;p&gt;当サイトの運営を妨害する行為、法令または公序良俗に反する行為を禁止します。&lt;/p&gt;
+&lt;h2 id=&#34;改定&#34;&gt;改定&lt;/h2&gt;
+&lt;p&gt;本条件は必要に応じて改定します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 28 Jan 2026 01:29:45 +0900</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;お問い合わせは以下の方法で受け付けています。&lt;/p&gt;
+&lt;h2 id=&#34;お問い合わせ方法&#34;&gt;お問い合わせ方法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Googleフォーム：&amp;lt;ここにURL&amp;gt;
+&lt;ul&gt;
+&lt;li&gt;返信が必要な場合は、フォーム内にメールアドレスをご記入ください。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;※迷惑行為、営業目的の大量送信はご遠慮ください。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Wed, 28 Jan 2026 01:29:39 +0900</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;本ページは ArinkoLab 開発ブログ（以下「当サイト」）のプライバシーポリシーです。&lt;/p&gt;
+&lt;h2 id=&#34;アクセス解析について&#34;&gt;アクセス解析について&lt;/h2&gt;
+&lt;p&gt;当サイトでは、利用状況の把握と改善のためにアクセス解析ツールを利用する場合があります。これにより、Cookie等を通じて匿名のトラフィックデータが収集されることがあります。&lt;/p&gt;
+&lt;h2 id=&#34;広告配信について&#34;&gt;広告配信について&lt;/h2&gt;
+&lt;p&gt;当サイトでは、第三者配信の広告サービス（例：Google AdSense）を利用する場合があります。広告配信事業者は、ユーザーの興味に応じた広告を表示するためCookie等を使用することがあります。&lt;/p&gt;
+&lt;h2 id=&#34;お問い合わせ&#34;&gt;お問い合わせ&lt;/h2&gt;
+&lt;p&gt;プライバシーに関するお問い合わせは、お問い合わせページよりご連絡ください。&lt;/p&gt;
+&lt;h2 id=&#34;改定&#34;&gt;改定&lt;/h2&gt;
+&lt;p&gt;本ポリシーは必要に応じて改定します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 28 Jan 2026 01:29:00 +0900</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;ArinkoLab の開発ブログです。Webツールや運用改善に関する記録、更新ログ、設定メモなどを掲載します。&lt;/p&gt;
+&lt;h2 id=&#34;運営者&#34;&gt;運営者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;名称：ArinkoLab&lt;/li&gt;
+&lt;li&gt;連絡先：お問い合わせページをご参照ください&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;本ブログの目的&#34;&gt;本ブログの目的&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;公開して問題ない範囲で、開発・運用の知見を整理し共有する&lt;/li&gt;
+&lt;li&gt;自作ツールのアップデート情報を残す&lt;/li&gt;
+&lt;li&gt;将来の機能改善や保守の引き継ぎに使える形で記録する&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cloudflareでads.txt を成立させる手順</title>
+      <link>http://localhost:1313/posts/adsense-ads-txt-apex-cloudflare/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/adsense-ads-txt-apex-cloudflare/</guid>
+      <description>arinkolab.com/ads.txt がパスを失ってトップに飛ぶ問題を、Cloudflare Redirect Rules でパス保持して解決する手順メモ。</description>
+    </item>
+  </channel>
+</rss>

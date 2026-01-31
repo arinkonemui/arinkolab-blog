@@ -1,0 +1,31 @@
+baseURL: "https://blog.arinkolab.com/"
+languageCode: "ja"
+title: "ArinkoLab 開発ブログ"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 10
+enableRobotsTXT: true
+
+params:
+  description: "ArinkoLab の開発メモ・運用ログ"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - name: "Posts"
+      url: "/posts/"
+      weight: 10
+    - name: "About"
+      url: "/about/"
+      weight: 20
+    - name: "Privacy"
+      url: "/privacy/"
+      weight: 30
+    - name: "Contact"
+      url: "/contact/"
+      weight: 40
