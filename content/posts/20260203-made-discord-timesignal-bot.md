@@ -26,7 +26,7 @@ AIに伝えた初期仕様は以下の通りです：
 > ２.流す通知は指定したチャットに文字として記載。（記載のON、OFFは指定できるようにする。）  
 > ３.音声ファイルから音声を読み取ってその音源を流す。
 
-![AIとの対話画面](https://media.arinkolab.com/blog/img/2026-02-03_made-discord-timesignal-bot_1.png)
+![AIとの対話画面](https://media.arinkolab.com/blog/img/2026-02-03_made-discord-timesignal-bot/01.png)
 
 ## AIとのブレスト開始
 
@@ -69,7 +69,7 @@ AIを使ってコーディングの自動化もできるらしいですが、そ
 - 僕が認識してない設定があったら、なぜ追加したのか、本当に必要なのかを質問して確認
 - 不要なものは削除
 
-![修正時の対話例](https://media.arinkolab.com/blog/img/2026-02-03_made-discord-timesignal-bot_2.png)
+![修正時の対話例](https://media.arinkolab.com/blog/img/2026-02-03_made-discord-timesignal-bot/02.png)
 
 これをしないと、本当に意図しない動きや謎な設定が入っていたりします。  
 他にもいろいろ質問も修正もやっています。
