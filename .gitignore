@@ -1,0 +1,35 @@
+# =========================
+# Hugo: build output / cache
+# =========================
+/public/
+/resources/
+.hugo_build.lock
+
+# (optional) Hugo local build artifacts (rare, but safe)
+.hugo_stats.json
+
+# =========================
+# OS / Editor noise
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code workspace files (optional; keep if you use shared settings)
+.vscode/
+*.code-workspace
+
+# =========================
+# Logs / temp
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Node / other toolchains (only if you ever add them)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
