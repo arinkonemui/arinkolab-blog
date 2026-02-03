@@ -4,7 +4,7 @@ date: 2026-02-01
 draft: false
 slug: "started-development-with-ai"
 description: "ChatGPT、Gemini、Claude等の生成AIツールを実際に比較検証し、開発に最適なAIの選び方を解説。普段はゲーム実況作りばかりしているシステムエンジニアが、AI支援開発を始めるまでの実体験をもとにしたアドバイス。"
-tags: ["AI", "開発", "プログラミング", "生成AI"]
+tags: ["AI", "開発", "プログラミング"]
 categories: ["技術"]
 ---
 
