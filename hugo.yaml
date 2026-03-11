@@ -1,4 +1,4 @@
-baseURL: "https://blog.arinkolab.com/"
+baseURL: "https://arinkolab.com/blog/"
 languageCode: "ja"
 title: "ArinkoLab 開発ブログ"
 theme: "PaperMod"
