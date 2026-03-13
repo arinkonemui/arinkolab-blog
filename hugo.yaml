@@ -17,6 +17,9 @@ params:
 
 menu:
   main:
+    - name: "ArinkoLabホーム"
+      url: "https://arinkolab.com/"
+      weight: 5
     - name: "Posts"
       url: "/posts/"
       weight: 10
